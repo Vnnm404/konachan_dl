@@ -28,23 +28,23 @@ It can be downloaded using `git clone <url>`.
 
 In this repo, a simple script is provided that demonstrates the naive 1 by 1 approach to scraping konachan for images. We compare the scripts with batch downloads of 5 and 20 images.
 
-*1 by 1 on 5 images*
+*1 by 1 on 5 images*   
 <img width="376" alt="slow" src="https://user-images.githubusercontent.com/94549325/205708885-f3756ebf-dd89-44a5-b2f7-f1db24bbde6d.png">
 
-*konachan_dl on 5 images*
+*konachan_dl on 5 images*   
 <img width="401" alt="fast" src="https://user-images.githubusercontent.com/94549325/205708953-1862feb3-2a4e-447c-af5a-fe83b137fe27.png">
 
 This may seem unimpressive but this difference in speed is only magnified with larger downloads as demonstrated with 20 images.
 
-*1 by 1 on 20 images*
+*1 by 1 on 20 images*   
 <img width="376" alt="slow" src="https://user-images.githubusercontent.com/94549325/205708999-c210118d-da65-4189-9125-14d960ceb818.png">
 
-*konachan_dl on 5 images*
+*konachan_dl on 5 images*   
 <img width="406" alt="fast20" src="https://user-images.githubusercontent.com/94549325/205709037-daf3c522-e3ba-4071-b67b-afac1763d846.png">
 
 The numbers speak for themselves.
-Here are two beautiful images the scraper got in these performance runs
+Here are two beautiful images the scraper got in these performance runs   
 
 ![showcase1](https://user-images.githubusercontent.com/94549325/205709068-fe3f9b39-b8f3-434b-93ee-7006007d9176.jpg)
-
+   
 ![showcase2](https://user-images.githubusercontent.com/94549325/205709106-d20c20b8-c2c5-49bd-9bb5-785b186d1303.png)
