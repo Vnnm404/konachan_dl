@@ -1,6 +1,6 @@
 <div align="center">
 <h1>konachan_dl</h1>
-<p>konachan_dl is a script used to download images from <a href="konachan.com">konachan</a> quickly.</p>
+<p>konachan_dl is a script used to download images from <a href="https://konachan.com">konachan</a> quickly.</p>
 <p>It downloads images directly onto your drive where ever you want and does so in parallel to achieve faster download speeds, all in your terminal! We also compare performance to the a naive approach to downloading images from the site.</p>
 <a href="#getting-started">Getting started</a> • <a href="#installation">Installation</a> • <a href="#analysis">Analysis</a>
 </div>
@@ -39,8 +39,8 @@ This may seem unimpressive but this difference in speed is only magnified with l
 *1 by 1 on 20 images*   
 <img width="376" alt="slow" src="https://user-images.githubusercontent.com/94549325/205708999-c210118d-da65-4189-9125-14d960ceb818.png">
 
-*konachan_dl on 5 images*   
-<img width="406" alt="fast20" src="https://user-images.githubusercontent.com/94549325/205709037-daf3c522-e3ba-4071-b67b-afac1763d846.png">
+*konachan_dl on 20 images*   
+<img width="406" alt="fast20" src="https://user-images.githubusercontent.com/94549325/205710243-ce2aa03f-12c9-48de-999c-8cd764466099.png">
 
 The numbers speak for themselves.
 Here are two beautiful images the scraper got in these performance runs   
