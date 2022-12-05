@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-![Demo][assets/demo.gif]
+![Demo][C:\Users\vnnm\Documents\Code\Python\konachan_dl\dump\demo.gif]
 
 ```sh
 python konachan_dl.py -n 5 -t 2 hatsune_miku vocaloid # downloads 5 images with the tags hatsune_miku+vocaloid
@@ -29,22 +29,22 @@ It can be downloaded using `git clone <url>`.
 In this repo, a simple script is provided that demonstrates the naive 1 by 1 approach to scraping konachan for images. We compare the scripts with batch downloads of 5 and 20 images.
 
 *1 by 1 on 5 images*
-![Slow5][assets/slow.png]
+![Slow5][C:\Users\vnnm\Documents\Code\Python\konachan_dl\dump\slow.png]
 
 *konachan_dl on 5 images*
-![Fast5][assets/fast.png]
+![Fast5][C:\Users\vnnm\Documents\Code\Python\konachan_dl\dump\fast.png]
 
 This may seem unimpressive but this difference in speed is only magnified with larger downloads as demonstrated with 20 images.
 
 *1 by 1 on 20 images*
-![Slow20][assets/slow20.png]
+![Slow20][C:\Users\vnnm\Documents\Code\Python\konachan_dl\dump\slow20.png]
 
 *konachan_dl on 5 images*
-![Fast20][assets/fast20.png]
+![Fast20][C:\Users\vnnm\Documents\Code\Python\konachan_dl\dump\fast20.png]
 
 The numbers speak for themselves.
 Here are two beautiful images the scraper got in these performance runs
 
-![showcase1][assets/showcase1.jpg]
+![showcase1][C:\Users\vnnm\Documents\Code\Python\konachan_dl\dump\showcase1.jpg]
 
-![showcase2][assets/showcase2.png]
+![showcase2][C:\Users\vnnm\Documents\Code\Python\konachan_dl\dump\showcase2.png]
