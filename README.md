@@ -1,4 +1,4 @@
-#<div align="center">
+<div align="center">
 <h1>konachan_dl</h1>
 <p>konachan_dl is a script used to download images from <a href="konachan.com">konachan</a> quickly.</p>
 <p>It downloads images directly onto your drive where ever you want and does so in parallel to achieve faster download speeds, all in your terminal! We also compare performance to the a naive approach to downloading images from the site.</p>
